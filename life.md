@@ -10,4 +10,3 @@ Mini Quest
 - 01/01/1436 Rats Brought back from the dead
 - 01/04/1436 The great forge closes
 - 02/11/1436 Mechanical infestation of the forge
-
